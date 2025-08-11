@@ -1,0 +1,22 @@
+# Core packages
+streamlit==1.32.0
+python-docx==0.8.11
+pypdf==3.17.1
+docx2txt==0.8
+
+# LangChain with compatible versions
+langchain==0.0.267
+pydantic==1.10.8
+
+# Compatible embedding packages
+sentence-transformers==2.2.2
+huggingface_hub==0.16.4
+faiss-cpu==1.7.4
+
+# OpenAI for embeddings (compatible versions)
+openai>=1.6.1,<2.0.0
+langchain-openai==0.0.2
+
+# Document processing
+requests==2.31.0
+beautifulsoup4==4.12.2

@@ -1,0 +1,18 @@
+[
+  {
+    "section": " Jurisdiction reference",
+    "issue": "The resolution references 'european market' instead of 'Abu Dhabi Global Market'",
+    "severity": "High",
+    "suggestion": "Correct the jurisdiction reference to 'Abu Dhabi Global Market' as required by ADGM regulations",
+    "regulation": "Companies Regulations Rules",
+    "document": "Incorporation-by-Individual.docx"
+  },
+  {
+    "section": "Model articles link",
+    "issue": "The document does not include a model articles link or template as required by ADGM regulations",
+    "severity": "Medium",
+    "suggestion": "Include the model articles link or template as specified in the Companies Regulations Rules",
+    "regulation": "Companies Regulations Rules",
+    "document": "Incorporation-by-Individual.docx"
+  }
+]
